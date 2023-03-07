@@ -1,0 +1,8 @@
+# vscode
+.vscode
+
+# Test code directories
+src
+lib
+include
+build
